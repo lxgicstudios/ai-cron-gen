@@ -1,5 +1,10 @@
 # ai-cron-gen
 
+[![npm version](https://img.shields.io/npm/v/ai-cron-gen.svg)](https://www.npmjs.com/package/ai-cron-gen)
+[![npm downloads](https://img.shields.io/npm/dm/ai-cron-gen.svg)](https://www.npmjs.com/package/ai-cron-gen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Convert natural language to cron expressions. Never look up cron syntax again.
 
 ## Install
