@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-cron-gen.svg)](https://www.npmjs.com/package/ai-cron-gen)
 [![npm downloads](https://img.shields.io/npm/dm/ai-cron-gen.svg)](https://www.npmjs.com/package/ai-cron-gen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-cron-gen)](https://github.com/lxgic-studios/ai-cron-gen/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Convert natural language to cron expressions. Never look up cron syntax again.
