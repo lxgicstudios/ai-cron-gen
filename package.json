@@ -15,41 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "claude",
-    "cli",
     "cron",
-    "crontab",
-    "developer-productivity",
-    "developer-tools",
-    "devops",
-    "discoverability",
-    "generative-ai",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
-    "performance",
-    "performance-optimization",
     "scheduling",
+    "automation",
+    "typescript",
+    "nodejs",
+    "AI-powered",
+    "AI-optimized",
+    "performance",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-cron-gen#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-cron-gen#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-cron-gen"
+    "url": "https://github.com/lxgicstudios/ai-cron-gen"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-cron-gen/issues"
+    "url": "https://github.com/lxgicstudios/ai-cron-gen/issues"
   },
   "funding": {
     "type": "github",
