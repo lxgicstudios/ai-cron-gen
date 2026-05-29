@@ -1,17 +1,73 @@
-## 📄 License
+---
 
-MIT License - see [LICENSE](LICENSE) file for details.
-## 🏷️ Badges
+<p align="center">
+  <a href="https://github.com/LXGIC-Studios">
+    <img src="https://img.shields.io/badge/LXGIC%20Studios-⚡-blue?style=for-the-badge&logo=github" alt="LXGIC Studios" />
+  </a>
+  <a href="https://npmjs.com/package/ai-cron-gen">
+    <img src="https://img.shields.io/npm/v/ai-cron-gen.svg?style=for-the-badge&logo=npm" alt="npm version" />
+  </a>
+  <a href="https://github.com/LXGIC-Studios/ai-cron-gen/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/LXGIC-Studios/ai-cron-gen/ci.yml?branch=main&style=for-the-badge&logo=github" alt="CI" />
+  </a>
+</p>
 
-![npm](https://img.shields.io/npm/v/ai-cron-gen)
-![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)
-![License](https://img.shields.io/npm/l/ai-cron-gen)
-![TypeScript](https://img.shields.io/badge/typescript-%3E%3D4.0-blue)
+<div align="center">
 
-# Cron job generation and scheduling automation tool
+# AI Cron Gen
 
-Cron job generator and scheduler. Creates time-based automation with natural language input.
-## Usage
+solve specific development challenges with AI-powered insights.
+
+[![npm downloads](https://img.shields.io/npm/d/ai-cron-gen.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-cron-gen)
+[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-cron-gen?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-cron-gen)
+[![License: MIT](https://img.shields.io/npm/l/ai-cron-gen.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/LXGIC-Studios/ai-cron-gen/blob/main/LICENSE)
+
+</div>
+
+> AI-powered cron expression generator - natural language to crontab with GPT.
+
+## 🚀 Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 📋 Table of Contents
+
+- [What Is It?](#-what-is-it)
+- [How It Works](#-how-it-works)
+- [Quick Start](#-quick-start)
+- [Usage Examples](#-usage-examples)
+- [API Reference](#-api-reference)
+- [Frequently Asked Questions](#-frequently-asked-questions)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## What Is Ai cron gen?
+
+Ai cron gen is a software development tool designed to help developers solve specific development challenges
+
+Ai cron gen is a software development tool designed to help developers solve specific development challenges helps developers solve specific development challenges efficiently.
+
+## How Does Ai cron gen Work?
+
+This tool provides feature 1,feature 2. It integrates seamlessly with modern development workflows.
+
+## Quick Start
+
+```bash
+npm install ai-cron-gen
+```
+
+```javascript
+// Basic usage
+const aicrongen = require('ai-cron-gen');
+aicrongen.main();
+```
+
+## 📚 Usage Examples
 
 ```javascript
 // Import the package
@@ -21,105 +77,61 @@ const cron-gen = require('ai-cron-gen');
 cron-gen.main();
 ```
 
-## Examples
+## 🔧 API Reference
 
-See the `examples/` directory for more detailed usage examples.
+Check the documentation folder for detailed API reference.
 
-## Installation
+## ❓ Frequently Asked Questions
 
-```bash
-npm install ai-cron-gen
-```
+## Frequently Asked Questions
 
-[![npm version](https://badge.fury.io/js/ai-cron-gen.svg)](https://badge.fury.io/js/ai-cron-gen)
+### What problem does ai-cron-gen solve?
 
+ai-cron-gen solves common software development challenges that developers face daily.
 
-[!
+### Is ai-cron-gen suitable for production use?
 
+Yes, ai-cron-gen is built with production environments in mind and includes proper error handling and validation.
 
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+### What are the main features?
 
- like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
+- • Feature 1
+- • Feature 2
+- • Feature 3
 
+### How do I contribute?
 
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit issues and pull requests.
 
- like this? We have 100+ on our  github.com/lxgicstudios
-
-
-🔗  https://github.com/lxgicstudios ·  https://x.com/lxgicstudios
-
- like this? We have 100+ on our  github.com/lxgicstudios
-
-
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
- like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
-
-
-
-
-
-
- [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
-
-
-- [npm Advanced SEO Guide](https://github.com/lxgicstudios/npm-seo-guide) - npm package optimization
-- [AI Search Optimization](https://github.com/lxgicstudios/ai-seo-guide) - AI-powered SEO strategies
-
-## 🚀 Built with ❤️ by LXGIC Studios
-
-> This tool is part of the [lxgic studios](https://github.com/lxgicstudios) collection of AI-powered developer tools. We specialize in creating intelligent automation solutions that help developers build faster, smarter, and more efficiently.
-
-
-**Discover more tools:** [lxgic studios GitHub](https://github.com/lxgicstudios)  
-**Follow us on ** [@lxgicstudios](https://twitter.com/lxgicstudios)  
-**Join our community:** [Discord Server](https://discord.gg/lxgicstudios)  
-
-## 📄 License
-
-MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
+---
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
+### Development Setup
+
+```bash
+git clone https://github.com/LXGIC-Studios/ai-cron-gen.git
+cd ai-cron-gen
+npm install
+npm run dev
+```
+
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+Built with ❤️ by the LXGIC Studios team.
+
+---
 
 <div align="center">
-  <p>
-    <a href="https://github.com/lxgicstudios/sponsor">
-      <img src="https://img.shields.io/badge/-Sponsor%20Us-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor LXGIC Studios">
-    </a>
-    <a href="https://twitter.com/lxgicstudios">
-      <img src="https://img.shields.io/badge/-Follow%20Us-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow LXGIC Studios">
-    </a>
-    <a href="https://discord.gg/lxgicstudios">
-      <img src="https://img.shields.io/badge/-Join%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
-    </a>
-  </p>
+
+**Built by LXGIC Studios**  
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/LXGIC-Studios)
+
 </div>
-
----
-
-Built by [LXGIC Studios](https://github.com/lxgicstudios)
-
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
-
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
